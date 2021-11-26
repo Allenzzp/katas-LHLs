@@ -11,6 +11,7 @@ const repeatNumbers = function(data) {
     result.push(subResult);
   }
   return result.toString();
+  
 };
 
 //test cases
